@@ -48,4 +48,6 @@ Future Enhancements:-
   Enhancing visualizations with detailed drill-downs.
  
   Integrating with live databases for real-time updates. 
+
+NOTE :- For the connection we have to connect the complaints full data with the state full data by performing the inner join on state and abbrivation table. 
  
